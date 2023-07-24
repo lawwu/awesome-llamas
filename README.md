@@ -13,12 +13,16 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
     - [Llama-2-70B-Chat-GGML](https://huggingface.co/TheBloke/Llama-2-70B-Chat-GGML) - Other model sizes can be found here: https://huggingface.co/TheBloke
 
 ## Benchmarks
-
-- LLaMA2 is competitive with GPT3.5 on Academic Benchmarks. The figure below is from the [LLaMA2 paper](https://arxiv.org/pdf/2307.09288.pdf).
+- [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - see models that have llama or llama-2 in the name.
+- LLaMA2 is competitive with similarly sized open source models on Academic Benchmarks. The figure below is also from the [LLaMA2 paper](https://arxiv.org/pdf/2307.09288.pdf).
+    - ![LLaMA2 Academic Benchmarks](./table3_academic_bm.png)
+- LLaMA2 is competitive with GPT3.5 on Human Evaluation. The figure below is also from the [LLaMA2 paper](https://arxiv.org/pdf/2307.09288.pdf).
     - ![LLaMA2 Human Evaluation Results](./figure12_human_eval_all.png)
 - [LLaMA2 is competitive with GPT3.5 in Medical applications](https://twitter.com/katieelink/status/1683479042886860801)
 
 ## Derivative Models
+- [FreeWilly2](https://huggingface.co/stabilityai/FreeWilly2) - FreeWilly2 is a Llama2 70B model finetuned on an Orca style Dataset, beating Llama-2-70b-chat on the HuggingFace Open LLM Leaderboard
+- [FreeWilly1](https://huggingface.co/stabilityai/FreeWilly1-Delta-SafeTensor) - FreeWilly is a Llama65B model fine-tuned on an Orca style Dataset
 - [Dolphin LLama](https://huggingface.co/ehartford/dolphin-llama-13b) - open source implementation of Microsoft's Orca model, based on Llama 1, not for commercial use.
 
 ## Inference
