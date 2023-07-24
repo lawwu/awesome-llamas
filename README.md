@@ -9,6 +9,7 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
     - [Llama-2-70b](https://huggingface.co/meta-llama/Llama-2-70b)
     - [Llama-2-70b-chat](https://huggingface.co/meta-llama/Llama-2-70b-chat) - Other model sizes can be found here: https://huggingface.co/meta-llama.
     - [Demo of 70b-chat](https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI) in a HuggingFace Space using TGI
+    - [Demo of 13b-chat](https://huggingface.co/spaces/huggingface-projects/llama-2-13b-chat)
 - GGML Format - GGML files are for CPU + GPU inference using `llama.cpp` and libraries and UIs which support this format. Works with Apple M1 or M2 GPUs.
     - [Llama-2-70B-Chat-GGML](https://huggingface.co/TheBloke/Llama-2-70B-Chat-GGML) - Other model sizes can be found here: https://huggingface.co/TheBloke
 
