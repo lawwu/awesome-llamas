@@ -2,7 +2,9 @@
 
 Awesome repositories for using LLaMA1 and LLaMA2 models.
 
-Given LLaMA2 is the first open source language model that is competitive with ChatGPT, thought it made sense to start documenting what is built on top of it.
+Given LLaMA2 is the first open source language model that is competitive with ChatGPT, thought it made sense to start documenting what is built on top of it. The figure below is from the [LLaMA2 paper](https://arxiv.org/pdf/2307.09288.pdf).
+
+![LLaMA2 Evaluation Results](./figure12_human_eval_all.png)
 
 ## LLaMA2 Models
 - Original - Meta released 7B, 13B and 70B pre-trained and chat versions.
