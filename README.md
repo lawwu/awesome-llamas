@@ -2,9 +2,7 @@
 
 Awesome repositories for using LLaMA1 and LLaMA2 models.
 
-Given LLaMA2 is the first open source language model that is competitive with ChatGPT, thought it made sense to start documenting what is built on top of it. The figure below is from the [LLaMA2 paper](https://arxiv.org/pdf/2307.09288.pdf).
-
-![LLaMA2 Evaluation Results](./figure12_human_eval_all.png)
+Given LLaMA2 is the first open source language model that is competitive with ChatGPT, thought it made sense to start documenting what is built on top of it. 
 
 ## LLaMA2 Models
 - Original - Meta released 7B, 13B and 70B pre-trained and chat versions.
@@ -13,6 +11,12 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
     - [Demo of 70b-chat](https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI) in a HuggingFace Space using TGI
 - GGML Format - GGML files are for CPU + GPU inference using `llama.cpp` and libraries and UIs which support this format. Works with Apple M1 or M2 GPUs.
     - [Llama-2-70B-Chat-GGML](https://huggingface.co/TheBloke/Llama-2-70B-Chat-GGML) - Other model sizes can be found here: https://huggingface.co/TheBloke
+
+## Benchmarks
+
+- LLaMA2 is competitive with GPT3.5 on Academic Benchmarks. The figure below is from the [LLaMA2 paper](https://arxiv.org/pdf/2307.09288.pdf).
+    - ![LLaMA2 Human Evaluation Results](./figure12_human_eval_all.png)
+- [LLaMA2 is competitive with GPT3.5 in Medical applications](https://twitter.com/katieelink/status/1683479042886860801)
 
 ## Derivative Models
 - [Dolphin LLama](https://huggingface.co/ehartford/dolphin-llama-13b) - open source implementation of Microsoft's Orca model, based on Llama 1, not for commercial use.
@@ -26,7 +30,7 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
 - [LLaMA2 Paper - Llama 2: Open Foundation and Fine-Tuned Chat Model](https://arxiv.org/pdf/2307.09288.pdf) - Released 2023-07-18
 - [LLaMA1 Paper - LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) - Released 2023-02-27
 
-# Tutorials
+## Tutorials
 - [How to Build a LLaMA2 Chatbot in Streamlit](https://blog.streamlit.io/how-to-build-a-llama-2-chatbot/)
 - [LLaMa 70B Chatbot in Hugging Face and LangChain](https://github.com/pinecone-io/examples/blob/master/learn/generation/llm-field-guide/llama-2-70b-chat-agent.ipynb)
 
