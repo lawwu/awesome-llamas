@@ -38,6 +38,7 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
 - [LLaMA1 Paper - LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) - Released 2023-02-27
 
 ## Tutorials
+- [How to fine-tune LLaMA2](https://scale.com/blog/fine-tune-llama-2)
 - [Running Llama 2 on CPU Inference Locally for Document Q&A](https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8)
 - [How to deploy LLaMA2 or any open-source LLM using HuggingFace's TGI](https://twitter.com/mervenoyann/status/1683499091223781376)
 - [How to Build a LLaMA2 Chatbot in Streamlit](https://blog.streamlit.io/how-to-build-a-llama-2-chatbot/)
