@@ -1,8 +1,8 @@
 # awesome-llamas
 
-Awesome repositories for using LLaMA1 and LLaMA2 models.
+Awesome repositories for using LLaMA1 and LLaMA2 models from Meta.
 
-Given LLaMA2 is the first open source language model that is competitive with ChatGPT, thought it made sense to start documenting what is built on top of it. 
+Given LLaMA2 is the first open source language model that is competitive with ChatGPT, thought it made sense to start documenting what is built on top of it. The main difference between LLaMA2 and LLaMA 1 is: LLaMA 2 available for free for research and commercial-use and it supports twice the context length of LLaMA 1.
 
 ## LLaMA2 Models
 - Original - Meta released 7B, 13B and 70B pre-trained and chat versions.
@@ -46,6 +46,7 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
 
 ## News
 - 2023-07-23 - [OpenAI Function calling with llama2](https://twitter.com/hwchase17/status/1683153581200019456)
+- 2023-07-20 - [LLaMA 2: Every Resource You Need](https://www.philschmid.de/llama-2)
 - 2023-07-18 - [Llama 2: an incredible open LLM](https://www.interconnects.ai/p/llama-2-from-meta)
 - 2023-07-18 - [Llama 2 is here - get it on Hugging Face](https://huggingface.co/blog/llama2)
 - 2023-07-18 - [Qualcomm Works with Meta to Enable On-device AI Applications Using Llama 2](https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi)
