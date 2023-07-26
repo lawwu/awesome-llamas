@@ -16,9 +16,9 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
 ## Benchmarks
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - see models that have llama or llama-2 in the name.
 - LLaMA2 is competitive with similarly sized open source models on Academic Benchmarks. The figure below is also from the [LLaMA2 paper](https://arxiv.org/pdf/2307.09288.pdf).
-    - ![LLaMA2 Academic Benchmarks](./table3_academic_bm.png)
+    - ![LLaMA2 Academic Benchmarks](./images/table3_academic_bm.png)
 - LLaMA2 is competitive with GPT3.5 on Human Evaluation. The figure below is also from the [LLaMA2 paper](https://arxiv.org/pdf/2307.09288.pdf).
-    - ![LLaMA2 Human Evaluation Results](./figure12_human_eval_all.png)
+    - ![LLaMA2 Human Evaluation Results](./images/figure12_human_eval_all.png)
 - [LLaMA2 is competitive with GPT3.5 in Medical applications](https://twitter.com/katieelink/status/1683479042886860801)
 
 ## Derivative Models
