@@ -22,6 +22,7 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
 - [LLaMA2 is competitive with GPT3.5 in Medical applications](https://twitter.com/katieelink/status/1683479042886860801)
 
 ## Derivative Models
+- [WizardLM-13B-V1.2](https://huggingface.co/WizardLM/WizardLM-13B-V1.2) - The WizardLM-13B-V1.2 achieves 7.06 on [MT-Bench Leaderboard](https://chat.lmsys.org/?leaderboard), [89.17% on AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/), which is better than Claude and ChatGPT, and 101.4% on WizardLM Eval. [WizardLM repo](https://github.com/nlpxucan/WizardLM)
 - [FreeWilly2](https://huggingface.co/stabilityai/FreeWilly2) - FreeWilly2 is a Llama2 70B model finetuned on an Orca style Dataset, beating Llama-2-70b-chat on the HuggingFace Open LLM Leaderboard
 - [FreeWilly1](https://huggingface.co/stabilityai/FreeWilly1-Delta-SafeTensor) - FreeWilly is a Llama65B model fine-tuned on an Orca style Dataset
 - [LongLLaMA: Focused Transformer Training for Context Scaling](https://huggingface.co/syzymon/long_llama_3b)
