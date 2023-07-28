@@ -14,6 +14,7 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
     - [Llama-2-70B-Chat-GGML](https://huggingface.co/TheBloke/Llama-2-70B-Chat-GGML) - Other model sizes can be found here: https://huggingface.co/TheBloke
 
 ## Benchmarks
+- [AlpacaEval](https://twitter.com/yanndubs/status/1684567600934817792) - LLaMA2-70B-chat is better than ChatGPT and Claude2, trailing only GPT-4 as of 2023-07-27.
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - see models that have llama or llama-2 in the name.
 - LLaMA2 is competitive with similarly sized open source models on Academic Benchmarks. The figure below is also from the [LLaMA2 paper](https://arxiv.org/pdf/2307.09288.pdf).
     - ![LLaMA2 Academic Benchmarks](./images/table3_academic_bm.png)
