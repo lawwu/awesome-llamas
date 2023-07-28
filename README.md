@@ -23,6 +23,7 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
 - [LLaMA2 is competitive with GPT3.5 in Medical applications](https://twitter.com/katieelink/status/1683479042886860801)
 
 ## Derivative Models
+- [StableBeluga2](https://huggingface.co/stabilityai/StableBeluga2) - Stable Beluga 2 is a Llama2 70B model finetuned on an Orca style Dataset
 - [LLongMA-2-13b-16k](https://huggingface.co/conceptofmind/LLongMA-2-13b-16k) - Releasing LLongMA-2-13b-16k, a Llama-2 model, trained at 16k context length using linear positional interpolation scaling. 8k context length is also available. ([post](https://www.linkedin.com/posts/enrico-shippole-495521b8_conceptofmindllongma-2-13b-hugging-face-activity-7089288709220524032-75yV/?trk=public_profile_like_view))
 - [WizardLM-13B-V1.2](https://huggingface.co/WizardLM/WizardLM-13B-V1.2) - The WizardLM-13B-V1.2 achieves 7.06 on [MT-Bench Leaderboard](https://chat.lmsys.org/?leaderboard), [89.17% on AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/), which is better than Claude and ChatGPT, and 101.4% on WizardLM Eval. [WizardLM repo](https://github.com/nlpxucan/WizardLM)
 - [FreeWilly2](https://huggingface.co/stabilityai/FreeWilly2) - FreeWilly2 is a Llama2 70B model finetuned on an Orca style Dataset, beating Llama-2-70b-chat on the HuggingFace Open LLM Leaderboard
@@ -47,6 +48,7 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
 - [LLaMa 70B Chatbot in Hugging Face and LangChain](https://github.com/pinecone-io/examples/blob/master/learn/generation/llm-field-guide/llama-2-70b-chat-agent.ipynb)
 
 ## News
+- 2023-07-28 - [Meta’s Open Source Llama Upsets the AI Horse Race](https://www.wired.com/story/metas-open-source-llama-upsets-the-ai-horse-race/) - Meta is giving its answer to OpenAI’s GPT-4 away for free. The move could intensify the generative AI boom by making it easier for entrepreneurs to build powerful new AI systems.
 - 2023-07-23 - [OpenAI Function calling with llama2](https://twitter.com/hwchase17/status/1683153581200019456)
 - 2023-07-20 - [LLaMA 2: Every Resource You Need](https://www.philschmid.de/llama-2)
 - 2023-07-18 - [Llama 2: an incredible open LLM](https://www.interconnects.ai/p/llama-2-from-meta)
