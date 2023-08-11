@@ -31,16 +31,20 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
 - [LongLLaMA: Focused Transformer Training for Context Scaling](https://huggingface.co/syzymon/long_llama_3b)
 - [Dolphin LLama](https://huggingface.co/ehartford/dolphin-llama-13b) - open source implementation of Microsoft's Orca model, based on Llama 1, not for commercial use.
 
-## Inference
+## Libraries
+- [ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [mlc-llm](https://github.com/mlc-ai/mlc-llm) - Running LLaMA2 on iOS devices natively using GPU acceleration, see [example](https://twitter.com/bohanhou1998/status/1681682445937295360)
 - [llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C by Andrej Karpathy
-- [Running 13b-chat inference locally on Apple Silicon](https://lawwu.github.io/posts/2023-07-20-llama-2-local/) - Post I wrote for how to run [Llama-2-13B-chat-GGML](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML) locally on a Mac getting around 15-20 tokens per second.
+- [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) - Easy-to-use fine-tuning framework using PEFT (PT+SFT+RLHF with QLoRA) (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen)
+- [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
+- [Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
 
 ## Papers
 - [LLaMA2 Paper - Llama 2: Open Foundation and Fine-Tuned Chat Model](https://arxiv.org/pdf/2307.09288.pdf) - Released 2023-07-18
 - [LLaMA1 Paper - LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) - Released 2023-02-27
 
 ## Tutorials
+- [Running 13b-chat inference locally on Apple Silicon](https://lawwu.github.io/posts/2023-07-20-llama-2-local/) - Post I wrote for how to run [Llama-2-13B-chat-GGML](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML) locally on a Mac getting around 15-20 tokens per second.
 - [How to fine-tune LLaMA2](https://scale.com/blog/fine-tune-llama-2)
 - [Running Llama 2 on CPU Inference Locally for Document Q&A](https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8)
 - [How to deploy LLaMA2 or any open-source LLM using HuggingFace's TGI](https://twitter.com/mervenoyann/status/1683499091223781376)
