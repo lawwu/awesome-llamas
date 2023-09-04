@@ -34,6 +34,7 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
 ## Libraries
 - [TinyLlama](https://github.com/jzhang38/TinyLlama) - pretrain a 1.1B Llama model on 3 trillion tokens. With some proper optimization, we can achieve this within a span of "just" 90 days using 16 A100-40G GPUs
 - [open-interpreter](https://github.com/shroominic/codeinterpreter-api) - Open source version of OpenAI's Code Interpreter. Works with GPT-4 and llama2.
+- [Code Llama](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/) - Code Llama is an AI model built on top of Llama 2, fine-tuned for generating and discussing code. Also this [Huggingface blog post on Code Llama](https://huggingface.co/blog/codellama).
 - [llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device
 - [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) - Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM2)
 - [ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
