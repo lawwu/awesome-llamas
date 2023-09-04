@@ -32,6 +32,10 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
 - [Dolphin LLama](https://huggingface.co/ehartford/dolphin-llama-13b) - open source implementation of Microsoft's Orca model, based on Llama 1, not for commercial use.
 
 ## Libraries
+- [TinyLlama](https://github.com/jzhang38/TinyLlama) - pretrain a 1.1B Llama model on 3 trillion tokens. With some proper optimization, we can achieve this within a span of "just" 90 days using 16 A100-40G GPUs
+- [open-interpreter](https://github.com/shroominic/codeinterpreter-api) - Open source version of OpenAI's Code Interpreter. Works with GPT-4 and llama2.
+- [llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device
+- [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) - Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM2)
 - [ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [mlc-llm](https://github.com/mlc-ai/mlc-llm) - Running LLaMA2 on iOS devices natively using GPU acceleration, see [example](https://twitter.com/bohanhou1998/status/1681682445937295360)
 - [llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C by Andrej Karpathy
