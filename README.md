@@ -58,6 +58,7 @@ Given LLaMA2 is the first open source language model that is competitive with Ch
 - [How to deploy LLaMA2 or any open-source LLM using HuggingFace's TGI](https://twitter.com/mervenoyann/status/1683499091223781376)
 - [How to Build a LLaMA2 Chatbot in Streamlit](https://blog.streamlit.io/how-to-build-a-llama-2-chatbot/)
 - [LLaMa 70B Chatbot in Hugging Face and LangChain](https://github.com/pinecone-io/examples/blob/master/learn/generation/llm-field-guide/llama-2-70b-chat-agent.ipynb)
+- [Finetune Llama 3.1 on GCP for production use cases](https://www.zenml.io/blog/how-to-finetune-llama-3-1-with-zenml)
 
 ## News
 - 2023-08-30 - [AI Silicon Valley = RealChar + AI town + Llama2](https://twitter.com/agishaun/status/1696915991739920791)
